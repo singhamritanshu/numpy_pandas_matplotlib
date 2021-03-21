@@ -1,5 +1,5 @@
 # numpy_pandas_matplotlib
-Numpy, panda,matplotlib and list tutorial
+Numpy, panda,matplotlib and list tutorial.
 
 Learn all the fundamentals to get started with python List, Pandas, Numpy & Matplotlib.
 
